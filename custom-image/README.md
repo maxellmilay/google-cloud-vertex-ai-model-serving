@@ -1,4 +1,3 @@
-# Information on the image
 # Custom Vertex AI Serving Container
 This project provides a custom container to serve models using FastAPI for Vertex AI.
 
