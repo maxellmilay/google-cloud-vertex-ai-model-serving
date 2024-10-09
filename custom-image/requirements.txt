@@ -1,0 +1,7 @@
+# Required dependencies
+fastapi==0.68.0
+uvicorn==0.15.0
+numpy==1.26.4
+joblib==1.0.1
+google-cloud-storage==2.18.2
+xgboost==2.1.1

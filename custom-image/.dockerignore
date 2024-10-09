@@ -1,0 +1,5 @@
+# Exclude unnecessary files from the Docker context
+*.pyc
+*.pyo
+__pycache__/
+.env
